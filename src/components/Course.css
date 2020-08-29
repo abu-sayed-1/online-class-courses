@@ -1,0 +1,13 @@
+.main-container{
+    margin:30px;
+}
+ 
+.product{
+    display: flex;
+    margin: 5px;
+}
+.cart-container{
+    color: rebeccapurple;
+    background-color: rgba(111, 80, 141, 0.548);
+    padding: 4px;
+}
